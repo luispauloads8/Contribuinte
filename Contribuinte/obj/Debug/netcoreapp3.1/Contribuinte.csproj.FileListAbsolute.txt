@@ -1,0 +1,13 @@
+E:\Contribuinte\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.exe
+E:\Contribuinte\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.deps.json
+E:\Contribuinte\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.runtimeconfig.json
+E:\Contribuinte\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.runtimeconfig.dev.json
+E:\Contribuinte\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.dll
+E:\Contribuinte\Contribuinte\bin\Debug\netcoreapp3.1\Contribuinte.pdb
+E:\Contribuinte\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.csprojAssemblyReference.cache
+E:\Contribuinte\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.AssemblyInfoInputs.cache
+E:\Contribuinte\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.AssemblyInfo.cs
+E:\Contribuinte\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.csproj.CoreCompileInputs.cache
+E:\Contribuinte\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.dll
+E:\Contribuinte\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.pdb
+E:\Contribuinte\Contribuinte\obj\Debug\netcoreapp3.1\Contribuinte.genruntimeconfig.cache
